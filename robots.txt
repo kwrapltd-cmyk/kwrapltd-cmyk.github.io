@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kwrapltd-cmyk.github.io/sitemap.xml
